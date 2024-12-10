@@ -1,7 +1,7 @@
 # Aim Trainer
 ### Sound Credits: https://pixabay.com/music/
 
-#### Libraried used:
+#### Libraries used:
 - Pygame
 - sys
 - random
